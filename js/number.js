@@ -36,3 +36,5 @@ console.log(typeof e);  // return the type of variable e
 
 
 
+
+
