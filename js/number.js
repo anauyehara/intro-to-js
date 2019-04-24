@@ -31,10 +31,11 @@ console.log(mod);
 var mod = b % c;
 console.log(mod);
 
-var e ='5';// not a number ; but is a string
+var e ='20';// not a number ; but is a string
 console.log(typeof e);  // return the type of variable e
 
-
+console.log(a === e);
+console.log(a == e);
 
 
 
