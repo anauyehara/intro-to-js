@@ -3,7 +3,7 @@ var obj = {}; // this is an empty object
 var car ={
     make: 'honda',
     model: 'civic',
-    year: '2019'
+    year: '2019',
 };
 console.log(car);
 console.log(car.model);
@@ -16,8 +16,9 @@ var date = {
     year: 2019,
     day: 'tuesday',
 
-}//display tuesday on our console
+};//display tuesday on our console
 
 console.log(date.day);
+
 
 
