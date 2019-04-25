@@ -87,7 +87,7 @@ console.log(pizza.Topings);
 
 var friends ={
     friend1: 'Mari',
-    friend2: 'Keila',
+    friend2: 'Kaila',
     friend3: 'Dana',
 };
 console.log(friends);
