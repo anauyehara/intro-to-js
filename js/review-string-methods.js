@@ -5,11 +5,19 @@ console.log(['Hello']);
 console.log(['World']); 
 
 
-var car ={
-    make: 'Lexus',
-    model: 'NX',
-    year: '2017',
-};
+var car = 'Lexus';
 console.log(car);
-console.log(car.make);
-console.log(car.model);
+
+var car2 = 'NX';
+console.log(car2);
+
+
+//var car3 = ('Lexus','NX');
+//console.log(['lexus NX']);
+
+var mycar = car.concat('').concat(car2);
+console.log(mycar);
+
+var mycar = car.concat('',car2 );
+console.log (mycar);
+
